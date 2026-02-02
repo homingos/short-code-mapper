@@ -24,7 +24,7 @@ In line 40; [milvus_dao_impl.go](./go-server/daos/milvus_dao_impl.go)
 
 - run the go server
     ```bash
-    cd go-server && go run go-server/main.go
+    cd go-server && go run main.go
     ```
 
 
