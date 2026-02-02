@@ -1,0 +1,8 @@
+node_modules
+.env
+.DS_Store
+short_code_output.json
+mapping_*.json
+short_code_output.csv
+.vscode
+.idea
