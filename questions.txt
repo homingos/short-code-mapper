@@ -1,0 +1,125 @@
+Earpods under one lakh thirty five thousand,AirPods Max
+Apple headphones below one lakh,AirPods Max
+Cheapest iPhone available,iPhone 16
+Budget Apple phone,iPhone 16
+iPhone under one lakh,iPhone 17
+Apple laptop under one lakh fifty thousand,MacBook Air M3
+Affordable MacBook for college,MacBook Air M3
+Apple tablet under fifty thousand,iPad 11th Gen
+Expensive Apple headphones,AirPods Max
+Premium Apple phone,iPhone 17 Pro Max
+Fastest iPhone right now,iPhone 17 Pro Max
+Best iPhone for heavy usage,iPhone 17 Pro Max - iPhone 17 Pro
+Apple laptop for video editing,MacBook Pro M4
+MacBook for developers,MacBook Pro M4
+Powerful Apple laptop,MacBook Pro M4
+Best Apple device for creators,MacBook Pro M4 - iPad Pro M4
+iPad for professional work,iPad Pro M4
+Best iPhone camera,iPhone 17 Pro Max
+iPhone for content creation,iPhone 17 Pro Max
+Phone for shooting videos,iPhone 17 Pro Max
+Tablet for watching movies,iPad Pro M4
+Apple device for entertainment,iPad Pro M4 - AirPods Max
+Big screen Apple device,iPad Pro M4
+iPhone for daily use,iPhone 17
+Phone for office and personal use,iPhone 17
+Lightweight Apple phone,iPhone 17 Air
+Apple device for travel,iPhone 17 - MacBook Air M3
+Portable Apple device,iPad 11th Gen - MacBook Air M3
+Apple device for meetings,MacBook Air M3 - AirPods Pro 3
+Noise cancelling AirPods,AirPods Pro 3
+Apple earbuds for calls,AirPods Pro 3
+Over ear Apple headphones,AirPods Max
+Apple headphones for flights,AirPods Max
+Best Apple audio product,AirPods Max
+Apple wearable,Apple Watch Series 10 - AirPods Pro 3
+Apple Watch for fitness tracking,Apple Watch Series 10
+Watch for workouts and running,Apple Watch Series 10
+Rugged Apple Watch,Apple Watch Ultra 3
+Smartwatch for hiking,Apple Watch Ultra 3
+Apple Watch for adventure sports,Apple Watch Ultra 3
+MacBook for students,MacBook Air M3
+Laptop for college work,MacBook Air M3
+iPad for students,iPad 11th Gen
+Tablet for reading and notes,iPad 11th Gen
+Apple device for online classes,iPad 11th Gen - MacBook Air M3
+Search for iPhone 17 Pro Max,iPhone 17 Pro Max
+Find iPhone 17 Pro,iPhone 17 Pro
+Show me iPhone 17,iPhone 17
+Search iPhone 17 Air,iPhone 17 Air
+Find iPhone 16,iPhone 16
+Show all iPhones,"iPhone 17 Pro Max, iPhone 17 Pro, iPhone 17, iPhone 17 Air, iPhone 16"
+Show me the newest iPhone,"iPhone 17 Pro Max, iPhone 17 Pro, iPhone 17, iPhone 17 Air"
+Show me Pro iPhones only,"iPhone 17 Pro Max, iPhone 17 Pro"
+Find the biggest iPhone,iPhone 17 Pro Max
+Find the lightest iPhone,iPhone 17 Air
+Show the cheapest iPhone,iPhone 16
+I need an iPhone for everyday use,"iPhone 17, iPhone 16"
+Best iPhone for photography,"iPhone 17 Pro Max, iPhone 17 Pro"
+Which iPhone is most powerful,iPhone 17 Pro Max
+Show me Apple Watches,"Watch Series 11, Watch Ultra 3, Watch Ultra 2, Watch SE 3"
+Search Watch Ultra 3,Watch Ultra 3
+Find Watch Ultra 2,Watch Ultra 2
+Show Watch Series 11,Watch Series 11
+Find Watch SE 3,Watch SE 3
+Show rugged Apple Watches,"Watch Ultra 3, Watch Ultra 2"
+Cheapest Apple Watch,Watch SE 3
+Most premium Apple Watch,Watch Ultra 3
+Watch for fitness tracking,"Watch Series 11, Watch SE 3"
+Best Apple Watch for hiking,"Watch Ultra 3, Watch Ultra 2"
+Show all AirPods,"AirPods, AirPods Max"
+Search AirPods Max,AirPods Max
+Find AirPods,AirPods
+Over-ear headphones,AirPods Max
+Cheapest headphones,AirPods
+Headphones for travel,"AirPods Max, AirPods"
+Show iPads,"iPad, iPad Mini, iPad Air, iPad Pro"
+Search iPad Pro,iPad Pro
+Find iPad Air,iPad Air
+Show iPad Mini,iPad Mini
+Find iPad,iPad
+Biggest iPad,iPad Pro
+Smallest iPad,iPad Mini
+Most affordable iPad,iPad
+Tablet for drawing,"iPad Pro, iPad Air"
+Tablet for reading,iPad Mini
+Best iPad for work,"iPad Pro, iPad Air"
+Show Mac laptops,"MacBook Air, MacBook Pro"
+Search MacBook Air,MacBook Air
+Find MacBook Pro,MacBook Pro
+Laptop for students,MacBook Air
+Laptop for creators,MacBook Pro
+Most powerful Mac laptop,MacBook Pro
+Lightweight Apple laptop,MacBook Air
+Show desktop Macs,"iMac, iMac Pro"
+Search iMac Pro,iMac Pro
+Find iMac,iMac
+Most powerful desktop Mac,iMac Pro
+Desktop for professionals,iMac Pro
+Show Apple home devices,"HomePod, HomePod Mini, Apple TV 4K"
+Search HomePod,HomePod
+Find HomePod Mini,HomePod Mini
+Speaker for living room,HomePod
+Small speaker for bedroom,HomePod Mini
+Show Apple TV products,Apple TV 4K
+Search Apple TV 4K,Apple TV 4K
+Device for streaming movies,"Apple TV 4K, iPad Pro"
+Best Apple device for entertainment,"Apple TV 4K, iPad Pro"
+Search Apple Vision Pro,Apple Vision Pro
+Show immersive headset,Apple Vision Pro
+Best device for mixed reality,Apple Vision Pro
+Apple product for immersive entertainment,Apple Vision Pro
+Show premium Apple products,"iPhone 17 Pro Max, Watch Ultra 3, iPad Pro, MacBook Pro, iMac Pro, AirPods Max, Apple Vision Pro"
+Show entry-level Apple products,"iPhone 16, Watch SE 3, iPad, AirPods, MacBook Air"
+Show me something for travel,"iPhone 17 Air, MacBook Air, AirPods, iPad Mini"
+Best Apple device for students,"MacBook Air, iPad Air, iPad"
+Show me iPhones,All iPhones
+Only Pro models,"iPhone 17 Pro Max, iPhone 17 Pro"
+The biggest one,iPhone 17 Pro Max
+Show me iPads,All iPads
+Something small,iPad Mini
+For drawing,"iPad Pro, iPad Air"
+Show me Watches,All Watches
+Only the adventure ones,"Watch Ultra 3, Watch Ultra 2"
+Show me headphones,"AirPods, AirPods Max"
+Only the premium ones,AirPods Max
