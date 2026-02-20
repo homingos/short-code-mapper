@@ -46,7 +46,7 @@ const outputBuilder = async (questions) => {
         console.log(`Processing question: ${question}`);
         
         try {
-            const response = await axios.get(`http://localhost:3000/campaigns/vhf4wt`, {
+            const response = await axios.get(`http://localhost:3000/campaigns/bssqmz`, {
                 params: { text: question }
             });
             console.log(`Success for "${question}":`, response.data);

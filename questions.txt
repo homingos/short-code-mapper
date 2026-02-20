@@ -1,125 +1,93 @@
-Earpods under one lakh thirty five thousand,AirPods Max
-Apple headphones below one lakh,AirPods Max
-Cheapest iPhone available,iPhone 16
-Budget Apple phone,iPhone 16
-iPhone under one lakh,iPhone 17
-Apple laptop under one lakh fifty thousand,MacBook Air M3
-Affordable MacBook for college,MacBook Air M3
-Apple tablet under fifty thousand,iPad 11th Gen
-Expensive Apple headphones,AirPods Max
-Premium Apple phone,iPhone 17 Pro Max
-Fastest iPhone right now,iPhone 17 Pro Max
-Best iPhone for heavy usage,iPhone 17 Pro Max - iPhone 17 Pro
-Apple laptop for video editing,MacBook Pro M4
-MacBook for developers,MacBook Pro M4
-Powerful Apple laptop,MacBook Pro M4
-Best Apple device for creators,MacBook Pro M4 - iPad Pro M4
-iPad for professional work,iPad Pro M4
-Best iPhone camera,iPhone 17 Pro Max
-iPhone for content creation,iPhone 17 Pro Max
-Phone for shooting videos,iPhone 17 Pro Max
-Tablet for watching movies,iPad Pro M4
-Apple device for entertainment,iPad Pro M4 - AirPods Max
-Big screen Apple device,iPad Pro M4
-iPhone for daily use,iPhone 17
-Phone for office and personal use,iPhone 17
-Lightweight Apple phone,iPhone 17 Air
-Apple device for travel,iPhone 17 - MacBook Air M3
-Portable Apple device,iPad 11th Gen - MacBook Air M3
-Apple device for meetings,MacBook Air M3 - AirPods Pro 3
-Noise cancelling AirPods,AirPods Pro 3
-Apple earbuds for calls,AirPods Pro 3
-Over ear Apple headphones,AirPods Max
-Apple headphones for flights,AirPods Max
-Best Apple audio product,AirPods Max
-Apple wearable,Apple Watch Series 10 - AirPods Pro 3
-Apple Watch for fitness tracking,Apple Watch Series 10
-Watch for workouts and running,Apple Watch Series 10
-Rugged Apple Watch,Apple Watch Ultra 3
-Smartwatch for hiking,Apple Watch Ultra 3
-Apple Watch for adventure sports,Apple Watch Ultra 3
-MacBook for students,MacBook Air M3
-Laptop for college work,MacBook Air M3
-iPad for students,iPad 11th Gen
-Tablet for reading and notes,iPad 11th Gen
-Apple device for online classes,iPad 11th Gen - MacBook Air M3
-Search for iPhone 17 Pro Max,iPhone 17 Pro Max
-Find iPhone 17 Pro,iPhone 17 Pro
-Show me iPhone 17,iPhone 17
-Search iPhone 17 Air,iPhone 17 Air
-Find iPhone 16,iPhone 16
-Show all iPhones,"iPhone 17 Pro Max, iPhone 17 Pro, iPhone 17, iPhone 17 Air, iPhone 16"
-Show me the newest iPhone,"iPhone 17 Pro Max, iPhone 17 Pro, iPhone 17, iPhone 17 Air"
-Show me Pro iPhones only,"iPhone 17 Pro Max, iPhone 17 Pro"
-Find the biggest iPhone,iPhone 17 Pro Max
-Find the lightest iPhone,iPhone 17 Air
-Show the cheapest iPhone,iPhone 16
-I need an iPhone for everyday use,"iPhone 17, iPhone 16"
-Best iPhone for photography,"iPhone 17 Pro Max, iPhone 17 Pro"
-Which iPhone is most powerful,iPhone 17 Pro Max
-Show me Apple Watches,"Watch Series 11, Watch Ultra 3, Watch Ultra 2, Watch SE 3"
-Search Watch Ultra 3,Watch Ultra 3
-Find Watch Ultra 2,Watch Ultra 2
-Show Watch Series 11,Watch Series 11
-Find Watch SE 3,Watch SE 3
-Show rugged Apple Watches,"Watch Ultra 3, Watch Ultra 2"
-Cheapest Apple Watch,Watch SE 3
-Most premium Apple Watch,Watch Ultra 3
-Watch for fitness tracking,"Watch Series 11, Watch SE 3"
-Best Apple Watch for hiking,"Watch Ultra 3, Watch Ultra 2"
-Show all AirPods,"AirPods, AirPods Max"
-Search AirPods Max,AirPods Max
-Find AirPods,AirPods
-Over-ear headphones,AirPods Max
-Cheapest headphones,AirPods
-Headphones for travel,"AirPods Max, AirPods"
-Show iPads,"iPad, iPad Mini, iPad Air, iPad Pro"
-Search iPad Pro,iPad Pro
-Find iPad Air,iPad Air
-Show iPad Mini,iPad Mini
-Find iPad,iPad
-Biggest iPad,iPad Pro
-Smallest iPad,iPad Mini
-Most affordable iPad,iPad
-Tablet for drawing,"iPad Pro, iPad Air"
-Tablet for reading,iPad Mini
-Best iPad for work,"iPad Pro, iPad Air"
-Show Mac laptops,"MacBook Air, MacBook Pro"
-Search MacBook Air,MacBook Air
-Find MacBook Pro,MacBook Pro
-Laptop for students,MacBook Air
-Laptop for creators,MacBook Pro
-Most powerful Mac laptop,MacBook Pro
-Lightweight Apple laptop,MacBook Air
-Show desktop Macs,"iMac, iMac Pro"
-Search iMac Pro,iMac Pro
-Find iMac,iMac
-Most powerful desktop Mac,iMac Pro
-Desktop for professionals,iMac Pro
-Show Apple home devices,"HomePod, HomePod Mini, Apple TV 4K"
-Search HomePod,HomePod
-Find HomePod Mini,HomePod Mini
-Speaker for living room,HomePod
-Small speaker for bedroom,HomePod Mini
-Show Apple TV products,Apple TV 4K
-Search Apple TV 4K,Apple TV 4K
-Device for streaming movies,"Apple TV 4K, iPad Pro"
-Best Apple device for entertainment,"Apple TV 4K, iPad Pro"
-Search Apple Vision Pro,Apple Vision Pro
-Show immersive headset,Apple Vision Pro
-Best device for mixed reality,Apple Vision Pro
-Apple product for immersive entertainment,Apple Vision Pro
-Show premium Apple products,"iPhone 17 Pro Max, Watch Ultra 3, iPad Pro, MacBook Pro, iMac Pro, AirPods Max, Apple Vision Pro"
-Show entry-level Apple products,"iPhone 16, Watch SE 3, iPad, AirPods, MacBook Air"
-Show me something for travel,"iPhone 17 Air, MacBook Air, AirPods, iPad Mini"
-Best Apple device for students,"MacBook Air, iPad Air, iPad"
-Show me iPhones,All iPhones
-Only Pro models,"iPhone 17 Pro Max, iPhone 17 Pro"
-The biggest one,iPhone 17 Pro Max
-Show me iPads,All iPads
-Something small,iPad Mini
-For drawing,"iPad Pro, iPad Air"
-Show me Watches,All Watches
-Only the adventure ones,"Watch Ultra 3, Watch Ultra 2"
-Show me headphones,"AirPods, AirPods Max"
-Only the premium ones,AirPods Max
+Show me something cozy for winter,"Patterned fleece blanket, Waffled dressing gown",Discovery
+I want something stylish for women,"Wide High Waist Jeans, Mom Slim Fit High Waist Ankle Jeans, Cape Top",Discovery
+Show me something casual for men,"Regular Fit T-shirt, Relaxed Jeans, Regular Fit Oxford Shirt – White",Discovery
+What can I wear for a relaxed weekend,"Loose Fit Sweatshirt, Relaxed Jeans",Discovery
+Show me something elegant for hosting,"16-piece cutlery set, Large marble tray",Discovery
+I want something calming for my home,"Scented candle in glass holder, Reed diffuser",Discovery
+Show me something decorative,"Small textured glass vase, Patterned cushion cover",Discovery
+What can refresh my bedroom,"Cotton double/king duvet cover set, Patterned cushion cover",Discovery
+Show me something warm and soft,"Patterned fleece blanket, Waffled dressing gown",Discovery
+Show me something modern and minimal,"Large marble tray, Small textured glass vase",Discovery
+Show me jeans,"Relaxed Jeans, Wide High Waist Jeans, Mom Slim Fit High Waist Ankle Jeans",Browse
+Show me t-shirts,"Regular Fit T-shirt, 3-pack Regular Fit T-shirts",Browse
+Show me hoodies,Loose Fit Zip-through Hoodie,Browse
+Show me sweatshirts,Loose Fit Sweatshirt,Browse
+Show me jackets,Twill jacket,Browse
+Show me leggings,Flared Leggings,Browse
+Show me shirts,Regular Fit Oxford Shirt – White,Browse
+Show me home decor,"Large marble tray, Small textured glass vase, Patterned cushion cover",Browse
+Show me bedding,Cotton double/king duvet cover set,Browse
+Show me candles,Scented candle in glass holder,Browse
+Women’s high waist jeans,"Wide High Waist Jeans, Mom Slim Fit High Waist Ankle Jeans",Filter
+Men’s relaxed jeans,Relaxed Jeans,Filter
+Women’s flared pants,Flared Leggings,Filter
+Men’s regular fit shirt,Regular Fit Oxford Shirt – White,Filter
+T-shirts under 1000,"Regular Fit T-shirt, 3-pack Regular Fit T-shirts (if within price)",Filter
+Women’s jeans under 2500,"Wide High Waist Jeans, Mom Slim Fit High Waist Ankle Jeans",Filter
+Hoodie under 3000,Loose Fit Zip-through Hoodie,Filter
+White shirt under 1500,Regular Fit Oxford Shirt – White,Filter
+Cotton king size bedding,Cotton double/king duvet cover set,Filter
+Marble serving decor,"Large marble tray, 2-pack marble bowls",Filter
+Small decorative vase,Small textured glass vase,Filter
+Cozy blanket under 2000,Patterned fleece blanket,Filter
+Women’s weekend outfit under 4000,"Flared Leggings, Loose Fit Sweatshirt",Filter
+Men’s casual outfit under 4000,"Regular Fit T-shirt, Relaxed Jeans",Filter
+Bathroom essentials under 1500,Print-motif terry bath towel,Filter
+Home fragrance under 2000,"Scented candle in glass holder, Reed diffuser",Filter
+Women’s slim fit high waist jeans,Mom Slim Fit High Waist Ankle Jeans,Filter
+Wide leg women’s jeans,Wide High Waist Jeans,Filter
+Soft loungewear for women,"Flared Leggings, Waffled dressing gown",Filter
+Decorative tableware set,16-piece cutlery set,Filter
+Patterned fleece blanket,Patterned fleece blanket,Direct
+Waffled dressing gown,Waffled dressing gown,Direct
+Relaxed Jeans,Relaxed Jeans,Direct
+Wide High Waist Jeans,Wide High Waist Jeans,Direct
+Mom Slim Fit High Waist Ankle Jeans,Mom Slim Fit High Waist Ankle Jeans,Direct
+Flared Leggings,Flared Leggings,Direct
+Regular Fit T-shirt,Regular Fit T-shirt,Direct
+3-pack Regular Fit T-shirts,3-pack Regular Fit T-shirts,Direct
+Loose Fit Sweatshirt,Loose Fit Sweatshirt,Direct
+Loose Fit Zip-through Hoodie,Loose Fit Zip-through Hoodie,Direct
+Twill jacket,Twill jacket,Direct
+Cape Top,Cape Top,Direct
+Regular Fit Oxford Shirt – White,Regular Fit Oxford Shirt – White,Direct
+Cotton double king duvet cover set,Cotton double/king duvet cover set,Direct
+Print-motif terry bath towel,Print-motif terry bath towel,Direct
+Polyester-filled inner cushion,Polyester-filled inner cushion,Direct
+Patterned cushion cover,Patterned cushion cover,Direct
+Small textured glass vase,Small textured glass vase,Direct
+Large marble tray,Large marble tray,Direct
+2-pack marble bowls,2-pack marble bowls,Direct
+16-piece cutlery set,16-piece cutlery set,Direct
+Scented candle in glass holder,Scented candle in glass holder,Direct
+Reed diffuser,Reed diffuser,Direct
+Dinosaur-shaped plate,Dinosaur-shaped plate,Direct
+Fluffy headband,Fluffy headband,Direct
+Women’s hoodie under 2500,Loose Fit Zip-through Hoodie,Filter
+Men’s 3 pack t shirts under 2000,3-pack Regular Fit T-shirts,Filter
+Women’s casual jeans under 3000,"Relaxed Jeans, Wide High Waist Jeans",Filter
+Glass decor under 2000,Small textured glass vase,Filter
+Marble bowls under 3000,2-pack marble bowls,Filter
+Soft blanket for winter,Patterned fleece blanket,Filter
+Cozy women’s lounge outfit,"Flared Leggings, Loose Fit Sweatshirt",Filter
+Men’s smart casual shirt,Regular Fit Oxford Shirt – White,Filter
+Bedroom decor set,"Cotton double/king duvet cover set, Patterned cushion cover",Discovery
+Something stylish for dinner hosting,"16-piece cutlery set, Large marble tray",Discovery
+Something soft for relaxing,"Patterned fleece blanket, Polyester-filled inner cushion",Discovery
+Something functional for dining,"16-piece cutlery set, 2-pack marble bowls",Discovery
+Something minimal for wardrobe,"Regular Fit Oxford Shirt – White, Regular Fit T-shirt",Discovery
+Show me women’s tops,Cape Top,Browse
+Show me men’s basics,"Regular Fit T-shirt, 3-pack Regular Fit T-shirts",Browse
+Show me bathroom items,Print-motif terry bath towel,Browse
+Show me tableware,"16-piece cutlery set, 2-pack marble bowls",Browse
+Show me outerwear,Twill jacket,Browse
+Women’s ankle jeans,Mom Slim Fit High Waist Ankle Jeans,Filter
+Men’s everyday t shirts,"Regular Fit T-shirt, 3-pack Regular Fit T-shirts",Filter
+Home decor under 3000,"Large marble tray, Small textured glass vase",Filter
+Bedding for king size bed,Cotton double/king duvet cover set,Filter
+Comfortable women’s leggings,Flared Leggings,Filter
+Casual hoodie for men,Loose Fit Zip-through Hoodie,Filter
+Large serving tray marble,Large marble tray,Direct
+Textured glass vase small,Small textured glass vase,Direct
+White regular fit shirt,Regular Fit Oxford Shirt – White,Direct
+Relaxed fit jeans,Relaxed Jeans,Direct
