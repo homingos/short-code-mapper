@@ -39,6 +39,15 @@ type MappingData struct {
 	Count       int                `json:"count"`
 }
 
+func stripMilvusRefNo(name string) string {
+
+	parts := strings.Split(name," - ")
+	if len(parts) > 1 {
+		return parts[0]
+	}
+    return name
+}
+
 func appendToJSON(fileName string, text string, newData []byte) {
 	var existingData map[string]interface{}
 	fileContent, err := os.ReadFile(fileName)
@@ -199,6 +208,13 @@ func main() {
 				"error": "No campaigns found for site code: " + siteCode,
 			})
 		}
+		// print mappings for debugging
+		fmt.Println("Mappings for site code:", siteCode)
+		// update mapping names by stripping Milvus reference numbers
+		for idx, _ := range mappings {
+			mappings[idx].Name = stripMilvusRefNo(mappings[idx].Name)
+		}
+
 
 		mappingData := MappingData{
 			SiteCode:    siteCode,
