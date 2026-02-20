@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"time"
 
 	"github.com/homingos/campaign-svc/dtos"
 	"github.com/homingos/flam-go-common/errors"
@@ -22,11 +23,21 @@ func NewMilvusDao(lgr *zap.SugaredLogger, milvusClient client.Client) *MilvusDao
 	return &MilvusDaoImpl{lgr: lgr, milvusClient: milvusClient}
 }
 
-// l2DistanceToSimilarity converts L2 distance to similarity score
+// L2DistanceToSimilarity converts L2 distance to similarity score
 // range: [0, 1], where 1 is most similar
-func l2DistanceToSimilarity(l2Distance float32) float32 {
-	similarity := 1 / (1 + l2Distance)
-	return similarity
+
+// func l2DistanceToSimilarity(l2Distance float32) float32 {
+// 	similarity := 1 / (1 + l2Distance)
+// 	return similarity
+// }
+
+// NormalizeCOSINESimilarity converts Milvus score to similarity score
+// Milvus returns Cosine Similarity [-1, 1] when using entity.COSINE.
+func NormalizeCOSINESimilarity(score float32) float32 {
+	if score < 0 {
+		return 0
+	}
+	return score
 }
 
 func (impl *MilvusDaoImpl) Search(ctx context.Context, embeddings []float32, siteCode string) ([]dtos.SearchResult, error) {
@@ -62,7 +73,7 @@ func (impl *MilvusDaoImpl) Search(ctx context.Context, embeddings []float32, sit
 		[]string{"*"},
 		[]entity.Vector{entity.FloatVector(embeddings)},
 		"vector_information",
-		entity.L2,
+		entity.COSINE,
 		5,
 		searchParams,
 	)
@@ -84,7 +95,7 @@ func (impl *MilvusDaoImpl) Search(ctx context.Context, embeddings []float32, sit
 			if err != nil {
 				continue
 			}
-			score := l2DistanceToSimilarity(results[0].Scores[i])
+			score := results[0].Scores[i]
 			catalogID := ""
 			clientID := ""
 			description := ""
@@ -108,7 +119,7 @@ func (impl *MilvusDaoImpl) Search(ctx context.Context, embeddings []float32, sit
 							name, _ = field.GetAsString(i)
 						}
 					default:
-						// do nothing
+						//
 					}
 				}
 			}
@@ -136,6 +147,27 @@ func (impl *MilvusDaoImpl) Search(ctx context.Context, embeddings []float32, sit
 	PrettyPrint(searchResults)
 
 	return searchResults, nil
+}
+
+func (impl *MilvusDaoImpl) Delete(ctx context.Context, clientID string, milvusRefID string) error {
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	Env := os.Getenv("APP_ENV")
+	if Env == "non-prod" {
+		Env = "qa"
+	}
+	if Env == "" {
+		Env = "prod"
+	}
+	milvusColl := fmt.Sprintf("product_vectors_%s", Env)
+	expr := fmt.Sprintf("id == '%s'", milvusRefID)
+
+	err := impl.milvusClient.Delete(ctx, milvusColl, "", expr)
+	if err != nil {
+		return errors.InternalServerError(err.Error())
+	}
+	return nil
 }
 
 func PrettyPrint(data interface{}) {
